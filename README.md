@@ -49,5 +49,5 @@ O projeto segue a estrutura de medalhão (Bronze, Silver, Gold) para garantir a 
 ## 🧑‍💻 Sobre o Autor
 Desenvolvido por **Yasmin Lopes**, estudante de ADS e Engenheiro de Dados em formação. Utilizo minha experiência prática na operação de varejo para construir soluções de dados que resolvem problemas reais de negócio.
 
-* **LinkedIn:**
-* **GitHub:** 
+* **LinkedIn:**  www.linkedin.com/in/yasmim-loppes/
+* **GitHub:** www.github.com/yasmimloppes
