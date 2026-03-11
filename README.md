@@ -41,8 +41,16 @@ O projeto segue a estrutura de medalhão (Bronze, Silver, Gold) para garantir a 
 
 ## 🚀 Demonstração de Lógica (Preview)
 
-> *Amanhã implementaremos a lógica de Ponto de Pedido:*
-> `Estoque Atual < (Venda Média Diária * Prazo de Entrega) = ALERTA DE REPOSIÇÃO`
+> *Lógica de Ponto de Pedido Implementada:*
+---
+
+## 📊 Insights de Operação (Varejo de Moda)
+
+Com base na execução do pipeline, identificamos que:
+* **Prioridade de Reposição:** Itens como 'Moletom Canguru G' e 'Tênis Running' estão abaixo do estoque mínimo (12 unidades), exigindo ação imediata.
+* **Saúde Financeira:** O monitoramento contínuo evita que o capital da loja fique imobilizado em excessos ou que vendas sejam perdidas por falta de grade.
+
+> *Este gráfico foi gerado automaticamente pelo script `visualizacao.py` cruzando dados reais de vendas de caixa com inventário físico.*
 
 ---
 
